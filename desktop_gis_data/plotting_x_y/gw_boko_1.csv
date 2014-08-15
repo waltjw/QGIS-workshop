@@ -1,0 +1,127 @@
+ID,EVENT_DATE,ACTOR1,LOCATION,LATITUDE,LONGITUDE,TOTAL_FATALITIES,COUNTRY
+1,15-Jan-14,Boko Haram,Am Chidé,11.23903,14.12624,1,Cameroon
+2,26-Feb-14,Boko Haram,Goumouldi,11.1842,13.9142,1,Cameroon
+3,28-Feb-14,Boko Haram,Kirawa,11.18578,13.91597,1,Cameroon
+4,13-Mar-14,Boko Haram,Kousseri,12.0769,15.0306,1,Cameroon
+5,05-May-14,Boko Haram,Kousseri,12.0769,15.0306,1,Cameroon
+6,16-May-14,Boko Haram,Waza,11.40432,14.56611,1,Cameroon
+7,24-Jun-14,Boko Haram,Mora,11.04848,14.14762,8,Cameroon
+8,20-Jul-14,Boko Haram,Maroua,10.5909,14.3159,1,Cameroon
+9,08-Jan-14,Boko Haram,Konduga,11.65583,13.42133,9,Nigeria
+10,12-Jan-14,Boko Haram,Konduga,11.65583,13.42133,5,Nigeria
+11,16-Jan-14,Boko Haram,Gashagar,13.36901,12.78577,7,Nigeria
+12,19-Jan-14,Boko Haram,Jere,11.871,13.40171,18,Nigeria
+13,20-Jan-14,Boko Haram,Wulgo,12.28222,14.18696,1,Nigeria
+14,21-Jan-14,Boko Haram,Damboa,11.15604,12.75758,10,Nigeria
+15,22-Jan-14,Boko Haram,Damboa,11.15604,12.75758,8,Nigeria
+16,26-Jan-14,Boko Haram,Madagali,10.89018,13.63121,26,Nigeria
+17,26-Jan-14,Boko Haram,Konduga,11.65583,13.42133,15,Nigeria
+18,26-Jan-14,Boko Haram,Wada Chakawa ,11.19024,8.44435,85,Nigeria
+19,31-Jan-14,Boko Haram,Sabon Gari,10.79942,13.4622,1,Nigeria
+20,31-Jan-14,Boko Haram,Sabon Gari,10.79942,13.4622,11,Nigeria
+21,01-Feb-14,Boko Haram,Zaria,11.11128,7.7227,4,Nigeria
+22,11-Feb-14,Boko Haram,Konduga,11.65583,13.42133,33,Nigeria
+23,15-Feb-14,Boko Haram,Sabon Gari,10.79942,13.4622,15,Nigeria
+24,15-Feb-14,Boko Haram,Isle,10.98333,13.35,106,Nigeria
+25,19-Feb-14,Boko Haram,Bama,11.5221,13.68558,23,Nigeria
+26,23-Feb-14,Boko Haram,Mairamri,11.577,13.53666,2,Nigeria
+27,25-Feb-14,Boko Haram,Buni Yadi ,11.26889,11.99694,43,Nigeria
+28,26-Feb-14,Boko Haram,Michika ,10.61592,13.3849,32,Nigeria
+29,01-Mar-14,Boko Haram,Mainok,11.8302,12.6307,39,Nigeria
+30,02-Mar-14,Boko Haram,Mafa,11.9254,13.6027,29,Nigeria
+31,03-Mar-14,Boko Haram,Jakana,11.6651,14.041,42,Nigeria
+32,05-Mar-14,Boko Haram,Mafa,11.9254,13.6027,5,Nigeria
+33,13-Mar-14,Boko Haram,Gujba,11.5032,11.9367,3,Nigeria
+34,20-Mar-14,Boko Haram,Ngurosoye,11.4699,13.7579,32,Nigeria
+35,29-Mar-14,Boko Haram,Damboa,11.156,12.7576,4,Nigeria
+36,05-Apr-14,Boko Haram,Gwargube,11.13333,12.48333,7,Nigeria
+37,05-Apr-14,Boko Haram,Buni Yadi ,11.26889,11.99694,20,Nigeria
+38,09-Apr-14,Boko Haram,Potiskum,11.70091,11.0694,3,Nigeria
+39,10-Apr-14,Boko Haram,Dikwa,12.02396,13.91646,8,Nigeria
+40,12-Apr-14,Boko Haram,Bama,11.5221,13.68558,60,Nigeria
+41,12-Apr-14,Boko Haram,Ngoshe,11.14274,13.77977,30,Nigeria
+42,13-Apr-14,Boko Haram,Kagalmari,11.409,12.7806,8,Nigeria
+43,14-Apr-14,Boko Haram,Nyanya,9.06667,7.48333,76,Nigeria
+44,16-Apr-14,Boko Haram,Wala,11.17255,13.76114,18,Nigeria
+45,21-Apr-14,Boko Haram,Mafa,11.92543,13.60269,2,Nigeria
+46,25-Apr-14,Boko Haram,Gujba,11.5032,11.9367,3,Nigeria
+47,05-May-14,Boko Haram,Gambaru,12.37066,14.21731,300,Nigeria
+48,16-May-14,Boko Haram,Damaturu,11.747,11.9608,9,Nigeria
+49,17-May-14,Boko Haram,Damboa,11.15604,12.75758,40,Nigeria
+50,18-May-14,Boko Haram,Ngubdala,12.4416,12.4912,16,Nigeria
+51,18-May-14,Boko Haram,Kano,12.00012,8.51672,5,Nigeria
+52,19-May-14,Boko Haram,Shawa,10.85398,13.12453,12,Nigeria
+53,20-May-14,Boko Haram,Jos,9.91667,8.9,162,Nigeria
+54,21-May-14,Boko Haram,Alagarno,10.8583,12.2005,17,Nigeria
+55,21-May-14,Boko Haram,Gamboru ,12.36972,14.22,29,Nigeria
+56,22-May-14,Boko Haram,Kimba,10.8205,12.43611,3,Nigeria
+57,25-May-14,Boko Haram,Madagali,10.89018,13.63121,21,Nigeria
+58,25-May-14,Boko Haram,Waga,10.14247,13.34015,20,Nigeria
+59,25-May-14,Boko Haram,Kamuyya,10.61285,12.19458,24,Nigeria
+60,26-May-14,Boko Haram,Ashigashiya,11.13482,13.87721,9,Nigeria
+61,27-May-14,Boko Haram,Chinine,11.07553,13.79499,8,Nigeria
+62,28-May-14,Boko Haram,Gwoza,11.10359,13.71298,9,Nigeria
+63,30-May-14,Boko Haram,Shaffa,10.506727,12.333148,1,Nigeria
+64,30-May-14,Boko Haram,Musari,12.8806,12.3398,15,Nigeria
+65,30-May-14,Boko Haram,Wagiri,12.4629,12.299,15,Nigeria
+66,01-Jun-14,Boko Haram,Mubi,10.26761,13.26436,18,Nigeria
+67,01-Jun-14,Boko Haram,Attagara,11.10785,13.81294,9,Nigeria
+68,03-Jun-14,Boko Haram,Agabura,10.47053,12.17387,50,Nigeria
+69,03-Jun-14,Boko Haram,Aganado,11.82275,13.59815,50,Nigeria
+70,03-Jun-14,Boko Haram,Attagara,11.10785,13.81294,50,Nigeria
+71,03-Jun-14,Boko Haram,Goshe,11.14274,13.77977,50,Nigeria
+72,04-Jun-14,Boko Haram,Mbulakudla,10.63582,12.8782,2,Nigeria
+73,05-Jun-14,Boko Haram,Bargari,11.7078,14.10918,45,Nigeria
+74,07-Jun-14,Boko Haram,Madagali ,10.89018,13.63121,5,Nigeria
+75,09-Jun-14,Boko Haram,Chibok ,10.86583,12.84702,5,Nigeria
+76,15-Jun-14,Boko Haram,Askira/Uba,10.63582,12.8782,15,Nigeria
+77,16-Jun-14,Boko Haram,Kwarangeri,10.8355,13.28083,8,Nigeria
+78,17-Jun-14,Boko Haram,Damaturu,11.747,11.9608,14,Nigeria
+79,19-Jun-14,Boko Haram,Gulak,10.80678,13.45649,10,Nigeria
+80,19-Jun-14,Boko Haram,Gwoza,11.10359,13.71298,10,Nigeria
+81,22-Jun-14,Boko Haram,Chibok ,10.86583,12.84702,40,Nigeria
+82,23-Jun-14,Boko Haram,Kumumza,10.90754,13.32077,4,Nigeria
+83,23-Jun-14,Boko Haram,Kano,12.00012,8.51672,8,Nigeria
+84,25-Jun-14,Boko Haram,Abuja,9.05735,7.48976,24,Nigeria
+85,25-Jun-14,Boko Haram,Papa,6.44556,3.35917,4,Nigeria
+86,29-Jun-14,Boko Haram,Chikwarkir,10.73756,12.25114,1,Nigeria
+87,29-Jun-14,Boko Haram,Chibok ,10.86583,12.84702,50,Nigeria
+88,08-Jul-14,Boko Haram,Gwoza,11.10359,13.71298,3,Nigeria
+89,17-Jul-14,Boko Haram,Damboa,11.15604,12.75758,50,Nigeria
+90,19-Jul-14,Boko Haram,Bulabulin,11.39039,12.90819,3,Nigeria
+91,19-Jul-14,Boko Haram,Gwoza,11.10359,13.71298,3,Nigeria
+92,19-Jul-14,Boko Haram,Damboa,11.15604,12.75758,40,Nigeria
+93,19-Jul-14,Boko Haram,Bama,11.5221,13.68558,60,Nigeria
+94,22-Jul-14,Boko Haram,Damboa,11.15604,12.75758,5,Nigeria
+95,23-Jul-14,Boko Haram,Garubula ,10.77751,12.01893,12,Nigeria
+96,23-Jul-14,Boko Haram,Ungwan Sarki ,11.17975,8.20776,35,Nigeria
+97,23-Jul-14,Boko Haram,Kawo,10.57771,7.44853,50,Nigeria
+98,24-Jul-14,Boko Haram,Sabon Gari ,12.02194,8.53472,1,Nigeria
+99,14-Jan-14,Boko Haram,Maiduguri,11.84644,13.16027,30,Nigeria
+100,22-Jan-14,Boko Haram,Gamboru ,12.36972,14.22,2,Nigeria
+101,04-Feb-14,Boko Haram,Ngalda,11.1029,11.3823,19,Nigeria
+102,15-Feb-14,Boko Haram,Bizigu,10.35894,12.79269,10,Nigeria
+103,15-Feb-14,Boko Haram,Doug,10.38912,12.9792,10,Nigeria
+104,15-Feb-14,Boko Haram,Gaza,10.29498,13.25788,10,Nigeria
+105,15-Feb-14,Boko Haram,Kwambula,10.26312,13.08956,10,Nigeria
+106,15-Feb-14,Boko Haram,Shuwa,10.75293,13.41618,10,Nigeria
+107,01-Mar-14,Boko Haram,Maiduguri,11.8464,13.1603,35,Nigeria
+108,16-Mar-14,Boko Haram,Hawul,10.4331,12.2468,2,Nigeria
+109,25-Mar-14,Boko Haram,Maiduguri,11.8464,13.1603,4,Nigeria
+110,01-Apr-14,Boko Haram,Mulgai,11.2133,13.21702,21,Nigeria
+111,15-Apr-14,Boko Haram,Hawul,10.4331,12.24682,2,Nigeria
+112,04-May-14,Boko Haram,Maiduguri,11.84644,13.16027,5,Nigeria
+113,14-May-14,Boko Haram,Maiduguri,11.84644,13.16027,2,Nigeria
+114,28-May-14,Boko Haram,Marte,12.36113,13.8246,42,Nigeria
+115,31-May-14,Boko Haram,Gamboru ,12.36972,14.22,5,Nigeria
+116,31-May-14,Boko Haram,Gamboru ,12.36972,14.22,15,Nigeria
+117,27-Jun-14,Boko Haram,Bauchi,10.31344,9.84327,11,Nigeria
+118,30-Jun-14,Boko Haram,Bigi,10.80991,9.22652,2,Nigeria
+119,01-Jul-14,Boko Haram,Maiduguri,11.84644,13.16027,56,Nigeria
+120,04-Jul-14,Boko Haram,Maiduguri,11.84644,13.16027,15,Nigeria
+121,13-Jul-14,Boko Haram,Buttuku,10.89589,13.38416,5,Nigeria
+122,14-Jul-14,Boko Haram,Delle,10.75126,13.21548,5,Nigeria
+123,15-Jul-14,Boko Haram,Sabongari,10.48896,12.24794,20,Nigeria
+124,16-Jul-14,Boko Haram,Huyum ,10.76891,13.14579,9,Nigeria
+125,16-Jul-14,Boko Haram,Sabongari,10.48896,12.24794,7,Nigeria
+126,23-Jul-14,Boko Haram,Gamboru ,12.36972,14.22,2,Nigeria
